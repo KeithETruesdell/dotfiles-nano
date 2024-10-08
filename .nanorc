@@ -1,0 +1,17 @@
+set linenumbers
+set numbercolor bold,white,orange
+set titlecolor bold,white,blue
+
+set softwrap
+set atblanks
+set afterends
+
+#set mouse
+#set smooth #NOTE: this is depricated
+
+set autoindent
+set tabsize 4
+
+set nonewlines
+
+# bind ⌘X all
